@@ -1,0 +1,3 @@
+[submodule "ReactiveObjC"]
+	path = ReactiveObjC
+	url = git://github.com/ReactiveCocoa/ReactiveObjC.git
